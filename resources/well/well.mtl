@@ -1,0 +1,41 @@
+# MTL written from D:\job\models\07_Well\well.obj
+newmtl metal
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.04 0.04 0.04
+map_Kd D:\job\models\07_Well\OBJ\metal.jpg
+newmtl roof
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.04 0.04 0.04
+map_Kd D:\job\models\07_Well\OBJ\roof.jpg
+newmtl well
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\job\models\07_Well\OBJ\brick.jpg
+newmtl wire
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\job\models\07_Well\OBJ\fabric.jpg
+newmtl wood
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.04 0.04 0.04
+map_Kd D:\job\models\07_Well\OBJ\wood.jpg
